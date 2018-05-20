@@ -120,16 +120,6 @@ Either you or the company may end the agreement written out in these terms at an
 
 The following provisions survive the end of our agreement: [Your Content](#your-content), [Feedback](#feedback), [Your Responsibility](#responsibility), [Disclaimers](#disclaimers), [Limits on Liability](#limits-on-liability), and [General Terms](#general).
 
-## <a id="general">General Terms</a>
-
-If a provision of these terms is unenforceable as written, but could be changed to make it enforceable, that provision should be modified to the minimum extent necessary to make it enforceable.  Otherwise, that provision should be removed.
-
-You may not assign your agreement with the company.  The company may assign your agreement to any affiliate of the company, any other company that obtains control of the company, or any other company that buys assets of the company related to the website.  Any attempted assignment against these terms has no legal effect.
-
-Neither the exercise of any right under this Agreement, nor waiver of any breach of this Agreement, waives any other breach of this Agreement.
-
-These terms embody all the terms of agreement between you and the company about use of the website.  These terms entirely replace any other agreements about your use of the website, written or not.
-
 ## <a id="disputes">Disputes</a>
 
 {{Governing Law}} will govern any dispute, including any legal proceedings, related to these terms or your use of the website.
@@ -139,6 +129,16 @@ You and the company agree to seek injunctions related to these terms only in sta
 ***Other than to seek an injunction, you and the company will resolve any Dispute by binding American Arbitration Association arbitration.  Arbitration will follow the AAA's Commercial Arbitration Rules and Supplementary Procedures for Consumer Related Disputes.  Arbitration will happen in {{Forum}}.  You will settle any dispute as an individual, and not as part of a class action or other representative proceeding, whether as the plaintiff or a class member.  No arbitrator will consolidate any dispute with any another arbitration without the company's permission.***
 
 Any arbitration award will include costs of the arbitration, reasonable attorneys' fees, and reasonable costs for witnesses.  You or the company may enter arbitration awards in any court with jurisdiction.
+
+## <a id="general">General Terms</a>
+
+If a provision of these terms is unenforceable as written, but could be changed to make it enforceable, that provision should be modified to the minimum extent necessary to make it enforceable.  Otherwise, that provision should be removed.
+
+You may not assign your agreement with the company.  The company may assign your agreement to any affiliate of the company, any other company that obtains control of the company, or any other company that buys assets of the company related to the website.  Any attempted assignment against these terms has no legal effect.
+
+Neither the exercise of any right under this Agreement, nor waiver of any breach of this Agreement, waives any other breach of this Agreement.
+
+These terms embody all the terms of agreement between you and the company about use of the website.  These terms entirely replace any other agreements about your use of the website, written or not.
 
 ## <a id="contact">Contact</a>
 
