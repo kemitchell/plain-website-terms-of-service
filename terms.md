@@ -18,7 +18,7 @@ Subject to these terms, the company gives you permission to use the website.  Th
 
 Your permission to use the website is subject to the following conditions:
 
-1.  You must be at least thirteen years old to use the website.
+1.  You must be at least thirteen years old.
 
 2.  You may no longer use the website if the company contacts you directly to say that you may not.
 
