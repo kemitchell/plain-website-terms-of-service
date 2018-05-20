@@ -2,19 +2,19 @@
 
 These terms govern use of the website <{{{Website Link}}}>.  To use the website, you must agree to these terms with {{Company Name}}, the company that runs the website.
 
-## Important Terms
+## <a id="important-terms">Important Terms</a>
 
 ***These terms include a number of important provisions that affect your rights and responsibilities, such as the disclaimers in [Disclaimers](#disclaimers), limits on the company's liability to you in [Limits on Liability](#limits-on-liability), and an agreement to arbitrate disputes in [Disputes](#disputes).***
 
-## Other Terms
+## <a id="other-terms">Terms for Other Services</a>
 
 The company offers other products and services, under different terms.  These terms apply only to use of the website.
 
-## Permission
+## <a id="permission">Your Permission to Use the Website</a>
 
 Subject to these terms, the company gives you permission to use the website.  That permission isn't exclusive to you, and you can't transfer it to anyone else.  Others need to agree to these terms for themselves to use the website.
 
-## Conditions
+## <a id="conditions">Conditions for Use of the Website</a>
 
 Your permission to use the website is subject to the following conditions:
 
@@ -22,23 +22,9 @@ Your permission to use the website is subject to the following conditions:
 
 2.  You may no longer use the website if the company contacts you directly to say that you may not.
 
-3.  You must use the website in accordance with [Acceptable Use](#acceptable-use).
+3.  You must use the website in accordance with [Acceptable Use](#acceptable-use) and [Content Standards](#content-standards).
 
 ## <a id="acceptable-use">Acceptable Use</a>
-
-### <a id="content-standards">Content Standards</a>
-
-1.  You may not submit content to the website that is illegal, offensive, or otherwise harmful to others.  This includes content that is harassing, inappropriate, or abusive.
-
-2.  You may not submit content to the website that violates the law, infringes anyone's intellectual property rights, violates anyone's privacy, or breaches agreements you have with others.
-
-3.  You may not submit content to the website containing malicious computer code, such as computer viruses or spyware.
-
-4.  You may not submit content to the website as a mere placeholder, to hold a particular address, user name, or other unique identifier.
-
-5.  You may not use the website to disclose information that you don't have the right to disclose, like others' confidential information.
-
-### <a id="unacceptable-uses">Unacceptable Uses</a>
 
 1.  You may not break the law using the website.
 
@@ -68,13 +54,25 @@ Your permission to use the website is subject to the following conditions:
 
 14.  You may no impersonate others through the website.
 
-## Enforcement
+## <a id="content-standards">Content Standards</a>
+
+1.  You may not submit content to the website that is illegal, offensive, or otherwise harmful to others.  This includes content that is harassing, inappropriate, or abusive.
+
+2.  You may not submit content to the website that violates the law, infringes anyone's intellectual property rights, violates anyone's privacy, or breaches agreements you have with others.
+
+3.  You may not submit content to the website containing malicious computer code, such as computer viruses or spyware.
+
+4.  You may not submit content to the website as a mere placeholder, to hold a particular address, user name, or other unique identifier.
+
+5.  You may not use the website to disclose information that you don't have the right to disclose, like others' confidential information.
+
+## <a id="enforcement">Enforcement</a>
 
 The company may investigate and prosecute violations of these terms to the fullest legal extent.  The company may notify and cooperate with law enforcement authorities in prosecuting violations of the law and these terms.
 
 The company reserves the right to delete content on the website for any reason.  If you believe someone has submitted content to the website in violation of these terms, [please contact us immediately](#contact).
 
-## Your Account
+## <a id="your-account">Your Account</a>
 
 You must create and log into an account to use some features of the website.
 
@@ -110,17 +108,17 @@ You agree to indemnify the company from legal claims by others related to your b
 
 ***You accept all risk of using the website and content on the website.  As far as the law allows, the company provides the website as is, without any warranty whatsoever.***
 
-## <a id="others-services">Other Websites and Services</a>
+## <a id="other-services">Other Websites and Services</a>
 
 The website may hyperlink to and integrate websites and services run by others.  The company does not make any warranty about services run by others, or content they may provide.  Use of services run by others may be governed by other terms between you and the one running service.
 
-## <a id="limits-on-liability">Limits on Liability</a>
+## <a id="liability">Limits on Liability</a>
 
 ***The company will not be liable to you for breach-of-contract damages company personnel could not have reasonably foreseen when you agreed to these terms.***
 
 ***As far as the law allows, the company's total liability to you for claims of any kind that are related to the website or content on the website will be limited to $50.***
 
-## Termination
+## <a id="termination">Termination</a>
 
 Either you or the company may end the agreement written out in these terms at any time.  When our agreement ends, your permission to use the website also ends.
 
