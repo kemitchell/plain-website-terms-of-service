@@ -108,11 +108,7 @@ You will indemnify the company, its officers, directors, employees, representati
 
 ## <a id="disclaimers">Disclaimers</a>
 
-***Use of the website is at your sole risk.  The company provides the website on an "as is" and "as available" basis.  The company expressly disclaims all warranties of any kind, whether express, implied, or statutory, including implied warranties of title, noninfringement, merchantability, and fitness for a particular purpose.***
-
-***You receive material via the website at your sole risk. You will be solely responsible for any damage to your computer system and network, as well as any data loss that may result from use of the website or content on the website.***
-
-The website may provide information that is inaccurate, incomplete, misleading, illegal, offensive, or otherwise harmful.  The company may, but does not promise to, review content submitted by others to the website.
+***You accept all risk of using the website and content on the website.  The website provides the website as is, without any warranty whatsoever.***
 
 ## <a id="others-services">Other Websites and Services</a>
 
