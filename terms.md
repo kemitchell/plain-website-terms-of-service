@@ -100,8 +100,6 @@ You agree to indemnify the company from legal claims by others related to your b
 
 ***You accept all risk of using the website and content on the website.  As far as the law allows, the company provides the website as is, without any warranty whatsoever.***
 
-## <a id="other-services">Other Websites and Services</a>
-
 The website may hyperlink to and integrate websites and services run by others.  The company does not make any warranty about services run by others, or content they may provide.  Use of services run by others may be governed by other terms between you and the one running service.
 
 ## <a id="liability">Limits on Liability</a>
