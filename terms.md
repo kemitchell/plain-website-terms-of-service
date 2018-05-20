@@ -110,6 +110,8 @@ You will indemnify the company, its officers, directors, employees, representati
 
 ***You accept all risk of using the website and content on the website.  The website provides the website as is, without any warranty whatsoever.***
 
+Some jurisdictions don't allow disclaimer of certain kinds of warranties.  In those jurisdictions, the company disclaims all the warranties it legally can.
+
 ## <a id="others-services">Other Websites and Services</a>
 
 The website may hyperlink to and integrate websites and other services operated by others.  The company does not make any warranty about services operated by others, or content they may provide.  Use of services operated by others may be governed by other terms between you and the service operator.
