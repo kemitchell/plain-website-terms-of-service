@@ -104,7 +104,7 @@ You agree that the company will be free to act on feedback and suggestions you p
 
 ## <a id="responsibility">Responsibility for Your Use</a>
 
-You will indemnify the company, its officers, directors, employees, representatives, and agents, and hold them harmless for, all liability, expenses, damages, and costs from any third-party claims, demands, lawsuits, or other proceedings alleging that content you submit to the website, your use the website, or both, violate the intellectual property right of a third party, these terms, or applicable law. You will not settle any such proceeding without the prior written consent of the company.  The company will notify you of any such proceeding it becomes aware of.
+You agree to indemnify the company from legal claims by others related to your breach of these terms, or breach of these terms by others using your account on the website.  Both you and the company agree to notify the other side of any legal claims for which you might have to indemnify the company as soon as possible.  If the company fails to notify you of a legal claim promptly, you wont' have to indemnify the company for damages that you could have defended against or mitigated with prompt notice.  You agree to allow the company to control investigation, defense, and settlement of legal claims for which you would have to indemnify the company, and to cooperate with those efforts.  The company agrees not to agree to any settlement that admits fault for you or imposes obligations on you without your prior agreement.
 
 ## <a id="disclaimers">Disclaimers</a>
 
