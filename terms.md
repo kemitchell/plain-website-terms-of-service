@@ -114,7 +114,7 @@ Some jurisdictions don't allow disclaimer of certain kinds of warranties.  In th
 
 ## <a id="others-services">Other Websites and Services</a>
 
-The website may hyperlink to and integrate websites and other services operated by others.  The company does not make any warranty about services operated by others, or content they may provide.  Use of services operated by others may be governed by other terms between you and the service operator.
+The website may hyperlink to and integrate websites and services run by others.  The company does not make any warranty about services run by others, or content they may provide.  Use of services run by others may be governed by other terms between you and the one running service.
 
 ## <a id="limits-on-liability">Limits on Liability</a>
 
