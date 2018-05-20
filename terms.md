@@ -54,7 +54,7 @@ Your permission to use the website is subject to the following conditions:
 
 7.  You may not falsely imply that you're affiliated with or endorsed by the company.
 
-8.  You may not hyperlink to images or other non-hypertext content by the website.
+8.  You may not hyperlink to images or other non-hypertext content on the website.
 
 9.  You may not remove any marks showing proprietary ownership from materials you download from the website.
 
