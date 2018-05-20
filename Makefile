@@ -9,5 +9,5 @@ terms.html: terms.md.filled blanks.json | $(COMMONMARK)
 terms.md.filled: blanks.json terms.md | $(MUSTACHE)
 	$(MUSTACHE) $^ > $@
 
-$(COMMONMARK):
+$(COMMONMARK) $(MUSTACHE):
 	npm install
