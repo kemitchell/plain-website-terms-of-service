@@ -90,8 +90,6 @@ Nothing in these terms gives the company any ownership rights in intellectual pr
 
 Between you and the company, you remain solely responsible for content you submit to the website.  You agree not to wrongly imply that content you submit to the website is sponsored or approved by the company.  These terms do not obligate the company to store, maintain, or provide copies of content you submit.
 
-The company may remove content you submit to the website from the website without notifying you if the company suspects you submitted the content in violation of [Acceptable Use](#acceptable-use), as well as under the company's [privacy]({{{Privacy Policy Link}}}) and [copyright]({{{Copyright Policy Link}}}) policies.
-
 Content you submit to the website belongs to you, and you decide what permission to give others for it.  But at a minimum, you license the company to provide content that you submit to the website to other users of the website.  That special license allows the company to copy, publish, and analyze content you submit to the website.
 
 When content you submit is removed from the website, whether by you or by the company, the company's special license ends when the last copy disappears from the company's backups, caches, and other systems.  Other licenses you apply to content you submit may continue after your content is removed.  Those licenses may give others, or the company itself, the right to share your content through the website again.
