@@ -60,7 +60,7 @@ Your permission to use the website is subject to the following conditions:
 
 10.  You may not show any part of the website on other websites with `<iframe>`.
 
-11. You may not disable, avoid, or circumvent any security or access restrictions of the website, or access parts of the website that we clearly don't intend for you to access.
+11. You may not disable, avoid, or circumvent any security or access restrictions of the website.
 
 12. You may not strain infrastructure of the website with an unreasonable volume of requests, or requests designed to impose an unreasonable load on IT systems underlying the website.
 
