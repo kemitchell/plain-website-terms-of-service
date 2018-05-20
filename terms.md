@@ -88,7 +88,7 @@ The company may restrict, suspend, or close your account on the website accordin
 
 Nothing in these terms gives the company any ownership rights in intellectual property that you share with the website, such as your account information or other content you submit to the website.  Nothing in these terms gives you any ownership rights in the company's intellectual property, either.
 
-Between you and the company, you remain solely responsible for content you submit to the website.  You agree not to wrongly imply that content you submit to the website is sponsored or approved by the company.  The company will not be obligated to store, maintain, or provide copies of content you submit, except per the company's privacy policy.
+Between you and the company, you remain solely responsible for content you submit to the website.  You agree not to wrongly imply that content you submit to the website is sponsored or approved by the company.  These terms do not obligate the company to store, maintain, or provide copies of content you submit.
 
 The company may remove content you submit to the website from the website without notifying you if the company suspects you submitted the content in violation of [Acceptable Use](#acceptable-use), as well as under the company's [privacy]({{{Privacy Policy Link}}}) and [copyright]({{{Copyright Policy Link}}}) policies.
 
