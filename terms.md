@@ -108,9 +108,7 @@ You will indemnify the company, its officers, directors, employees, representati
 
 ## <a id="disclaimers">Disclaimers</a>
 
-***You accept all risk of using the website and content on the website.  The website provides the website as is, without any warranty whatsoever.***
-
-Some jurisdictions don't allow disclaimer of certain kinds of warranties.  In those jurisdictions, the company disclaims all the warranties it legally can.
+***You accept all risk of using the website and content on the website.  As far as the law allows, the company provides the website as is, without any warranty whatsoever.***
 
 ## <a id="others-services">Other Websites and Services</a>
 
