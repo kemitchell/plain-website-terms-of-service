@@ -46,7 +46,7 @@ Your permission to use the website is subject to the following conditions:
 
 3.  You may not buy, sell, or otherwise trade in user names or other unique identifiers on the website.
 
-4.  You may not send advertisements, chain letters, or other solicitations through the website, or using address you find on the website.
+4.  You may not send advertisements, chain letters, or other solicitations through the website, or use the website to gather addresses for commercial mailing lists.
 
 5.  You may not automate access to the website, or monitor the website, such as with a web crawler, browser plug-in or add-on, or other computer program that is not a web browser.  You may crawl the website to index it for a publicly available search engine.
 
