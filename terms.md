@@ -1,6 +1,6 @@
 # Terms of Service
 
-These terms govern use of the website <{{{Website Link}}}>.  To use the website, you must agree to these terms with {{Company Name}}, the company providing the website.
+These terms govern use of the website <{{{Website Link}}}>.  To use the website, you must agree to these terms with {{Company Name}}, the company that runs the website.
 
 ## Important Terms
 
