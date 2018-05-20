@@ -62,7 +62,7 @@ Your permission to use the website is subject to the following conditions:
 
 11. You may not disable, avoid, or circumvent any security or access restrictions of the website.
 
-12. You may not strain infrastructure of the website with an unreasonable volume of requests, or requests designed to impose an unreasonable load on IT systems underlying the website.
+12. You may not strain infrastructure of the website with an unreasonable volume of requests, or requests designed to impose an unreasonable load on information systems underlying the website.
 
 13. You may not encourage or assist any other person in violation of [Acceptable Use](#acceptable-use).
 
