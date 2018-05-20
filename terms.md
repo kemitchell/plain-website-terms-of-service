@@ -78,7 +78,7 @@ The company reserves the right to delete content on the website for any reason. 
 
 You must create and log into an account to use some features of the website.
 
-To create an account, you must provide certain information about yourself.  If you create an account, you agree to provide, at a minimum, a valid e-mail address, and to keep that address up-to-date.  You may delete your Account at any time by {{{Account Deletion Method}}}.
+To create an account, you must provide some information about yourself.  If you create an account, you agree to provide, at a minimum, a valid e-mail address, and to keep that address up-to-date.  You may delete your Account at any time by {{{Account Deletion Method}}}.
 
 You agree to be responsible for all action taken using your account, whether authorized by you or not, until you either close your account or notify the company that your account has been compromised.  You agree to notify the company immediately if you suspect your account has been compromised.  You agree to select a secure password for your account, and keep it secret.
 
