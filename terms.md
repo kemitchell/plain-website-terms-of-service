@@ -124,7 +124,7 @@ The website may hyperlink to and integrate websites and services run by others. 
 
 Either you or the company may end the agreement written out in these terms at any time.  When our agreement ends, your permission to use the website also ends.
 
-The following provisions survive the end of our agreement: [Your Content](#your-content), [Feedback](#feedback), [Responsibility for Your Use](#responsibility), [Disclaimers](#disclaimers), [Limits on Liability](#limits-on-liability), and [General Terms](#general).  Users of the website may continue to copy and share content you submitted to the website after our agreement ends.
+The following provisions survive the end of our agreement: [Your Content](#your-content), [Feedback](#feedback), [Responsibility for Your Use](#responsibility), [Disclaimers](#disclaimers), [Limits on Liability](#limits-on-liability), and [General Terms](#general).
 
 ## <a id="general">General Terms</a>
 
