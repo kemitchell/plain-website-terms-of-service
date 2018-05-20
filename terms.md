@@ -116,11 +116,9 @@ The website may hyperlink to and integrate websites and services run by others. 
 
 ## <a id="limits-on-liability">Limits on Liability</a>
 
-***Neither the company nor any third-party service provider used by the company to provide the website will, under any circumstances, be liable to you for any indirect, incidental, consequential, special, or exemplary damages related to your use of the website or these terms, whether based on breach of contract, breach of warranty, tort (including negligence, product liability, or otherwise), or any other pecuniary loss, and whether or not the company has been advised of the possibility of such damages.***
+***The company will not be liable to you for breach-of-contract damages company personnel could not have reasonably foreseen when you agreed to these terms.***
 
-***To the maximum extent permitted by law, the company's liability to you for any damages related to the website or these terms, for any one or more causes and regardless of the form of action, will not exceed $50.***
-
-Some jurisdictions do not allow disclaimer of certain kinds of warranties or limits on liability for incidental or consequential damages.  Some of [Disclaimers](#disclaimers) and [Limits on Liability](#limits-on-liability) may not apply to you.
+***As far as the law allows, the company's total liability to you for claims of any kind that are related to the website or content on the website will be limited to $50.***
 
 ## Termination
 
