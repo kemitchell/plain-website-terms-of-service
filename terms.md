@@ -26,7 +26,7 @@ Your permission to use the website is subject to the following conditions:
 
 ## <a id="acceptable-use">Acceptable Use</a>
 
-### <a id="unacceptable-content">Unacceptable Content</a>
+### <a id="content-standards">Content Standards</a>
 
 1.  You may not submit content to the website that is illegal, offensive, or otherwise harmful to others.  This includes content that is harassing, inappropriate or abusive.
 
