@@ -6,7 +6,7 @@ The company may offer other products and services, under different terms.  These
 
 ## <a id="important-terms">Important Terms</a>
 
-***These terms include a number of important provisions that affect your rights and responsibilities, such as the disclaimers in [Disclaimers](#disclaimers), limits on the company's liability to you in [Limits on Liability](#limits-on-liability), and an agreement to arbitrate disputes in [Disputes](#disputes).***
+***These terms include a number of important provisions that affect your rights and responsibilities, such as the disclaimers in [Disclaimers](#disclaimers), limits on the company's liability to you in [Limits on Liability](#limits-on-liability), your agreement to cover the company for damages caused by your misuse of the website in [Responsibility for Your Use](#responsibility), and an agreement to arbitrate disputes in [Disputes](#disputes).***
 
 ## <a id="permission">Your Permission to Use the Website</a>
 
@@ -92,7 +92,7 @@ When content you submit is removed from the website, whether by you or by the co
 
 Others who receive content you submit to the website may violate the terms on which you license your content.  You agree that the company will not be liable to you for those violations or their consequences.
 
-## <a id="responsibility">Responsibility for Your Use</a>
+## <a id="responsibility">Your Responsibility</a>
 
 You agree to indemnify the company from legal claims by others related to your breach of these terms, or breach of these terms by others using your account on the website.  Both you and the company agree to notify the other side of any legal claims for which you might have to indemnify the company as soon as possible.  If the company fails to notify you of a legal claim promptly, you wont' have to indemnify the company for damages that you could have defended against or mitigated with prompt notice.  You agree to allow the company to control investigation, defense, and settlement of legal claims for which you would have to indemnify the company, and to cooperate with those efforts.  The company agrees not to agree to any settlement that admits fault for you or imposes obligations on you without your prior agreement.
 
@@ -120,7 +120,7 @@ You agree that the company will be free to act on feedback and suggestions you p
 
 Either you or the company may end the agreement written out in these terms at any time.  When our agreement ends, your permission to use the website also ends.
 
-The following provisions survive the end of our agreement: [Your Content](#your-content), [Feedback](#feedback), [Responsibility for Your Use](#responsibility), [Disclaimers](#disclaimers), [Limits on Liability](#limits-on-liability), and [General Terms](#general).
+The following provisions survive the end of our agreement: [Your Content](#your-content), [Feedback](#feedback), [Your Responsibility](#responsibility), [Disclaimers](#disclaimers), [Limits on Liability](#limits-on-liability), and [General Terms](#general).
 
 ## <a id="general">General Terms</a>
 
