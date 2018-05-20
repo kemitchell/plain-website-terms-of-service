@@ -82,7 +82,7 @@ To create an account, you must provide some information about yourself.  If you 
 
 You agree to be responsible for all action taken using your account, whether authorized by you or not, until you either close your account or notify the company that your account has been compromised.  You agree to notify the company immediately if you suspect your account has been compromised.  You agree to select a secure password for your account, and keep it secret.
 
-The company may restrict, suspend, or close your account on the website according to its policy for handling copyright-related takedown requests, if the company reasonably believes that you've breached these terms, or if the company reasonably believes that you've misused the website.
+The company may restrict, suspend, or close your account on the website according to its policy for handling copyright-related takedown requests, or if the company reasonably believes that you've breached these terms.
 
 ## <a id="your-content">Your Content</a>
 
