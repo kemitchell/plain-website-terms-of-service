@@ -154,6 +154,6 @@ The company may notify you under these terms using the e-mail address you provid
 
 ## <a id="changes">Changes</a>
 
-The company last updated these terms on {{Last Updated}}, and may update these terms again.  The company will post updates to the website, and e-mail users with website accounts.  The company may also post an announcement or alert to the website.
+The company last updated these terms on {{Last Updated}}, and may update these terms again.  The company will post all updates to the website.  For updates that contain substantial changes, the company agrees to e-mail you, if you've created an account and provided a valid e-mail address.  The company may also announce updates with special messages or alerts on the website.
 
 Once you get notice of an update to these terms, you must agree to the new terms in order to keep using the website.
