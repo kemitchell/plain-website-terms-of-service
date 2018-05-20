@@ -34,7 +34,7 @@ Your permission to use the website is subject to the following conditions:
 
 3.  You may not submit content to the website containing malicious computer code, such as computer viruses or spyware.
 
-4.  You may not submit content to the website as a mere placeholder, to hold a particular address or name.
+4.  You may not submit content to the website as a mere placeholder, to hold a particular address, user name, or other unique identifier.
 
 5.  You may not use the website to disclose information that you don't have the right to disclose, like others' confidential information.
 
@@ -44,7 +44,7 @@ Your permission to use the website is subject to the following conditions:
 
 2.  You may not use or try to use another's account on the website without their specific permission.
 
-3.  You may not buy, sell, or otherwise trade in user names or other names on the website.
+3.  You may not buy, sell, or otherwise trade in user names or other unique identifiers on the website.
 
 4.  You may not send advertisements, chain letters, or other solicitations through the website, or using address you find on the website.
 
