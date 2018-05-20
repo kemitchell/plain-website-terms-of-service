@@ -2,13 +2,11 @@
 
 These terms govern use of the website <{{{Website Link}}}>.  To use the website, you must agree to these terms with {{Company Name}}, the company that runs the website.
 
+The company may offer other products and services, under different terms.  These terms apply only to use of the website.
+
 ## <a id="important-terms">Important Terms</a>
 
 ***These terms include a number of important provisions that affect your rights and responsibilities, such as the disclaimers in [Disclaimers](#disclaimers), limits on the company's liability to you in [Limits on Liability](#limits-on-liability), and an agreement to arbitrate disputes in [Disputes](#disputes).***
-
-## <a id="other-terms">Terms for Other Services</a>
-
-The company offers other products and services, under different terms.  These terms apply only to use of the website.
 
 ## <a id="permission">Your Permission to Use the Website</a>
 
