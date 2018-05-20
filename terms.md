@@ -34,7 +34,7 @@ Your permission to use the website is subject to the following conditions:
 
 3.  You may not submit content to the website containing malicious computer code, such as computer viruses or spyware.
 
-4.  You may not submit content to the website as a mere placeholder, to hold a particular address or name on the website.
+4.  You may not submit content to the website as a mere placeholder, to hold a particular address or name.
 
 5.  You may not use the website to disclose information that you don't have the right to disclose, like others' confidential information.
 
