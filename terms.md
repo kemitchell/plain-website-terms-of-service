@@ -42,7 +42,7 @@ Your permission to use the website is subject to the following conditions:
 
 1.  You may not break the law using the website.
 
-2.  You may not use or attempt to use another's account on the website without their specific permission.
+2.  You may not use or try to use another's account on the website without their specific permission.
 
 3.  You may not buy, sell, or otherwise trade in user names or other names on the website.
 
