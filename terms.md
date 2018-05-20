@@ -8,7 +8,7 @@ These terms govern use of the website <{{{Website Link}}}>.  To use the website,
 
 ## Other Terms
 
-The company offers other products services, under different terms.  These terms apply only to use of the website.
+The company offers other products and services, under different terms.  These terms apply only to use of the website.
 
 ## Permission
 
