@@ -72,7 +72,7 @@ Your permission to use the website is subject to the following conditions:
 
 The company may investigate and prosecute violations of these terms to the fullest legal extent.  The company may notify and cooperate with law enforcement authorities in prosecuting violations of the law and these terms.
 
-The company reserves the right to delete content hosted on the website for any reason.  If you believe someone has submitted content to the website in violation of these terms, [please contact us immediately](#contact).
+The company reserves the right to delete content on the website for any reason.  If you believe someone has submitted content to the website in violation of these terms, [please contact us immediately](#contact).
 
 ## Your Account
 
