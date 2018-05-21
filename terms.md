@@ -132,7 +132,7 @@ The website may hyperlink to and integrate websites and services run by others. 
 
 The company welcomes your feedback and suggestions for the website.  See the [Contact](#contact) section below for ways to get in touch with us.
 
-You agree that the company will be free to act on feedback and suggestions you provide, and that the company won't have to notify you that four feedback was used, get your permission to use it, or pay you.  You agree not to submit feedback or suggestions that you believe might be confidential or proprietary, to you or others.
+You agree that the company will be free to act on feedback and suggestions you provide, and that the company won't have to notify you that your feedback was used, get your permission to use it, or pay you.  You agree not to submit feedback or suggestions that you believe might be confidential or proprietary, to you or others.
 
 ## <a id="termination">Termination</a>
 
