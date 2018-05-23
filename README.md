@@ -8,12 +8,16 @@
 
 ## Scope
 
+These terms were prepared with the following in mind:
+
 - website
 - with user accounts
 - accepts come user-submitted content
 - company based in the USA
 - separate copyright policy
 - separate privacy policy
+
+That does _not_ mean these terms will work for every website meeting those criteria.
 
 ## Copying
 
