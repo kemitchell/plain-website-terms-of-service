@@ -30,7 +30,7 @@ Skip to:
 
 ## <a id="permission">Your Permission to Use the Website</a>
 
-Subject to these terms, the company gives you permission to use the website.  That permission isn't exclusive to you, and you can't transfer it to anyone else.  Others need to agree to these terms for themselves to use the website.
+Subject to these terms, the company gives you permission to use the website.  You can't transfer it to anyone else.  Others need to agree to these terms for themselves to use the website.
 
 ## <a id="conditions">Conditions for Use of the Website</a>
 
