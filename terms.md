@@ -30,7 +30,7 @@ Skip to:
 
 ## <a id="permission">Your Permission to Use the Website</a>
 
-Subject to these terms, the company gives you permission to use the website.  That permission isn't exclusive to you, and you can't transfer it to anyone else.  Others need to agree to these terms for themselves to use the website.
+Subject to these terms, the company gives you permission to use the website.  That permission is exclusive to you, and you can't transfer it to anyone else.  Others need to agree to these terms for themselves to use the website.
 
 ## <a id="conditions">Conditions for Use of the Website</a>
 
@@ -70,7 +70,7 @@ Your permission to use the website is subject to the following conditions:
 
 13. You may not encourage or help anyone in violation of these terms.
 
-14.  You may no impersonate others through the website.
+14.  You may not impersonate others through the website.
 
 ## <a id="content-standards">Content Standards</a>
 
