@@ -1,4 +1,4 @@
-# Minimal Website Terms of Service
+# Plain-Language Website Terms of Service
 
 ## Be Warned!
 
