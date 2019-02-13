@@ -26,7 +26,7 @@ Skip to:
 
 ## <a id="important-terms">Important Terms</a>
 
-***These terms include a number of important provisions that affect your rights and responsibilities, such as the disclaimers in [Disclaimers](#disclaimers), limits on the company's liability to you in [Limits on Liability](#limits-on-liability), your agreement to cover the company for damages caused by your misuse of the website in [Responsibility for Your Use](#responsibility), and an agreement to arbitrate disputes in [Disputes](#disputes).***
+***These terms include a number of important provisions that affect your rights and responsibilities, such as the disclaimers in [Disclaimers](#disclaimers), limits on the company's liability to you in [Limits on Liability](#limits-on-liability), your agreement to cover the company for damages caused by your misuse of the website in [Your Responsibility](#responsibility), and an agreement to arbitrate disputes in [Disputes](#disputes).***
 
 ## <a id="permission">Your Permission to Use the Website</a>
 
