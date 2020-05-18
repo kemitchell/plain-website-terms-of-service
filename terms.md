@@ -124,7 +124,7 @@ You agree to indemnify the company from legal claims by others related to your b
 
 - `Governing Law` will govern any dispute, including any legal proceedings, related to these terms or your use of the website.
 
-- You and the company agree to seek injunctions related to these terms only in state or federal court in `Forum`  Neither you nor the company will object to jurisdiction, forum, or venue in those courts.
+- You and the company agree to seek injunctions related to these terms only in state or federal court in `Forum`.  Neither you nor the company will object to jurisdiction, forum, or venue in those courts.
 
 - !!! Other than to seek an injunction or for claims under the Computer Fraud and Abuse Act, you and the company will resolve any Dispute by binding American Arbitration Association arbitration.  Arbitration will follow the AAA's Commercial Arbitration Rules and Supplementary Procedures for Consumer Related Disputes.  Arbitration will happen in `Forum`.  You will settle any dispute as an individual, and not as part of a class action or other representative proceeding, whether as the plaintiff or a class member.  No arbitrator will consolidate any dispute with any other arbitration without the company's permission.
 
