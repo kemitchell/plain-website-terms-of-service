@@ -74,7 +74,7 @@ Your permission to use the website is subject to the following conditions:
 
 - You must create and log into an account to use some features of the website.
 
-- To create an account, you must provide some information about yourself.  If you create an account, you agree to provide, at a minimum, a valid e-mail address, and to keep that address up-to-date.  You may close your account at any time by {{{Account Deletion Method}}}.
+- To create an account, you must provide some information about yourself.  If you create an account, you agree to provide, at a minimum, a valid e-mail address, and to keep that address up-to-date.  You may close your account at any time by `Account Deletion Method`.
 
 - You agree to be responsible for all action taken using your account, whether authorized by you or not, until you either close your account or notify the company that your account has been compromised.  You agree to notify the company immediately if you suspect your account has been compromised.  You agree to select a secure password for your account, and keep it secret.
 
@@ -126,7 +126,7 @@ You agree to indemnify the company from legal claims by others related to your b
 
 - You and the company agree to seek injunctions related to these terms only in state or federal court in `Forum`  Neither you nor the company will object to jurisdiction, forum, or venue in those courts.
 
-- !!! Other than to seek an injunction or for claims under the Computer Fraud and Abuse Act, you and the company will resolve any Dispute by binding American Arbitration Association arbitration.  Arbitration will follow the AAA's Commercial Arbitration Rules and Supplementary Procedures for Consumer Related Disputes.  Arbitration will happen in {{Forum}}.  You will settle any dispute as an individual, and not as part of a class action or other representative proceeding, whether as the plaintiff or a class member.  No arbitrator will consolidate any dispute with any other arbitration without the company's permission.
+- !!! Other than to seek an injunction or for claims under the Computer Fraud and Abuse Act, you and the company will resolve any Dispute by binding American Arbitration Association arbitration.  Arbitration will follow the AAA's Commercial Arbitration Rules and Supplementary Procedures for Consumer Related Disputes.  Arbitration will happen in `Forum`.  You will settle any dispute as an individual, and not as part of a class action or other representative proceeding, whether as the plaintiff or a class member.  No arbitrator will consolidate any dispute with any other arbitration without the company's permission.
 
 - Any arbitration award will include costs of the arbitration, reasonable attorneys' fees, and reasonable costs for witnesses.  You or the company may enter arbitration awards in any court with jurisdiction.
 
@@ -148,6 +148,6 @@ You agree to indemnify the company from legal claims by others related to your b
 
 # Changes
 
-- The company last updated these terms on {{Last Updated}}, and may update these terms again.  The company will post all updates to the website.  For updates that contain substantial changes, the company agrees to e-mail you, if you've created an account and provided a valid e-mail address.  The company may also announce updates with special messages or alerts on the website.
+- The company last updated these terms on `Last Updated`, and may update these terms again.  The company will post all updates to the website.  For updates that contain substantial changes, the company agrees to e-mail you, if you've created an account and provided a valid e-mail address.  The company may also announce updates with special messages or alerts on the website.
 
 - Once you get notice of an update to these terms, you must agree to the new terms in order to keep using the website.
