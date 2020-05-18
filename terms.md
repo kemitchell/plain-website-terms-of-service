@@ -82,7 +82,7 @@ Your permission to use the website is subject to the following conditions:
 
 # Your Content
 
-- Nothing in these terms gives the company any ownership rights in intellectual property that you share with the website, such as your account information or other content you submit to the website.  Nothing in these terms gives you any ownership rights in the company's intellectual property, either.
+- Nothing in these terms gives the company any ownership rights in content or intellectual property that you share with the website, such as your account information or other content you submit to the website.  Nothing in these terms gives you any ownership rights in the company's content or intellectual property, either.
 
 - Between you and the company, you remain solely responsible for content you submit to the website.  You agree not to wrongly imply that content you submit to the website is sponsored or approved by the company.  These terms do not obligate the company to store, maintain, or provide copies of content you submit.
 
