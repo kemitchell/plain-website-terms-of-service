@@ -42,7 +42,7 @@ Your permission to use the website is subject to the following conditions:
 
 - You may not remove any marks showing proprietary ownership from materials you download from the website.
 
-- You may not show any part of the website on other websites with `<iframe>`.
+- You may not show any part of the website on other websites with <iframe>.
 
 - You may not disable, avoid, or circumvent any security or access restrictions of the website.
 
