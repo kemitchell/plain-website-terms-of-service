@@ -98,7 +98,7 @@ You agree to indemnify the company from legal claims by others related to your b
 
 # Disclaimers
 
-- !!! You accept all risk of using the website and content on the website.  As far as the law allows, the company provides the website as is, without any warranty whatsoever.
+- !!! You accept all risk of using the website and it content.  As far as the law allows, the company provides the website and its content as is, without any warranty whatsoever.
 
 - The website may hyperlink to and integrate websites and services run by others.  The company does not make any warranty about services run by others, or content they may provide.  Use of services run by others may be governed by other terms between you and the one running service.
 
@@ -106,7 +106,7 @@ You agree to indemnify the company from legal claims by others related to your b
 
 - !!! The company will not be liable to you for breach-of-contract damages company personnel could not have reasonably foreseen when you agreed to these terms.
 
-- !!! As far as the law allows, the company's total liability to you for claims of any kind that are related to the website or content on the website will be limited to $50.
+- !!! As far as the law allows, the company's total liability to you for claims of any kind that are related to the website or its content will be limited to $50.
 
 # Feedback
 
