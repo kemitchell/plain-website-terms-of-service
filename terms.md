@@ -132,7 +132,7 @@ You agree to indemnify the company from legal claims by others related to your b
 
 # General Terms
 
-- If a provision of these terms is unenforceable as written, but could be changed to make it enforceable, that provision should be modified to the minimum extent necessary to make it enforceable.  Otherwise, that provision should be removed.
+- If a provision of these terms is unenforceable as written, but could be changed to make it enforceable, that provision should be changed to the minimum extent necessary to make it enforceable.  Otherwise, that provision should be removed.
 
 - You may not assign your agreement with the company.  The company may assign your agreement to any affiliate of the company, any other company that obtains control of the company, or any other company that buys assets of the company related to the website.  Any attempted assignment against these terms has no legal effect.
 
