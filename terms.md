@@ -100,7 +100,7 @@ You agree to reimburse the company for all the costs of legal claims by others r
 
 - !!! You accept all risk of using the website and it content.  As far as the law allows, the company provides the website and its content as is, without any warranty whatsoever.
 
-- The website may hyperlink to and integrate websites and services run by others.  The company does not make any warranty about services run by others, or content they may provide.  Use of services run by others may be governed by other terms between you and the one running service.
+- The website may hyperlink to and integrate websites and services run by others.  The company does not make any guarantee about services run by others, or content they may provide.  Use of services run by others may be governed by other terms between you and the one running service.
 
 # Limits on Liability
 
