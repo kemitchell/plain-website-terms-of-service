@@ -1,7 +1,9 @@
 {
   "private": true,
   "devDependencies": {
-    "commonmark": "^0.28.1",
-    "mustache": "^2.3.0"
+    "commonform-commonmark": "^6.0.0",
+    "commonform-docx": "^5.2.0",
+    "commonform-html": "^3.6.0",
+    "json": "^9.0.6"
   }
 }

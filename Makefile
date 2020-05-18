@@ -1,13 +1,52 @@
-COMMONMARK=node_modules/.bin/commonmark
-MUSTACHE=node_modules/.bin/mustache
+NPMBIN=node_modules/.bin
+CFCM=$(NPMBIN)/commonform-commonmark
+CFHTML=$(NPMBIN)/commonform-html
+CFDOCX=$(NPMBIN)/commonform-docx
+JSON=$(NPMBIN)/json
 
-terms.html: terms.md.filled blanks.json | $(COMMONMARK)
-	$(COMMONMARK) --smart $< > $@
+GIT_TAG=$(shell (git diff-index --quiet HEAD && git describe --exact-match --tags 2>/dev/null | sed 's/v//'))
+EDITION:=$(or $(EDITION),$(if $(GIT_TAG),$(GIT_TAG),Development Draft))
 
-.INTERMEDIATE: terms.md.filled
+BUILD=build
+TARGETS=$(addprefix $(BUILD)/,terms.html terms.docx terms.pdf)
 
-terms.md.filled: blanks.json terms.md | $(MUSTACHE)
-	$(MUSTACHE) $^ > $@
+all: $(TARGETS)
 
-$(COMMONMARK) $(MUSTACHE):
-	npm install
+$(BUILD)/%.form.json: %.md | $(BUILD) $(CFCM)
+	$(CFCM) parse --only form $< > $@
+
+$(BUILD)/%.html: $(BUILD)/%.form.json $(BUILD)/%.title | $(BUILD) $(CFHTML)
+	$(CFHTML) \
+		--title "$(shell cat $(BUILD)/$*.title)" \
+		--edition "$(EDITION)" \
+		--ids \
+		--lists \
+		--html5 \
+		< $< > $@
+
+$(BUILD)/%.docx: $(BUILD)/%.form.json $(BUILD)/%.title styles.json | $(BUILD) $(CFDOCX)
+	$(CFDOCX) \
+		--number outline \
+		--left-align-title \
+		--indent-margins \
+		--title "$(shell cat $(BUILD)/$*.title)" \
+		--edition "$(EDITION)" \
+		--styles styles.json \
+		$< > $@
+
+$(BUILD)/%.title: %.md | $(BUILD) $(CFCM) $(JSON)
+	$(CFCM) parse < $< | $(JSON) frontMatter.title > $@
+
+$(BUILD)/%.pdf: $(BUILD)/%.docx
+	unoconv $<
+
+$(BUILD):
+	mkdir -p $(BUILD)
+
+$(CFCM) $(CFHTML) $(CFDOCX):
+	npm ci
+
+.PHONY: clean
+
+clean:
+	rm -rf $(BUILD)
