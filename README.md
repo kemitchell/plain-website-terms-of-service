@@ -18,7 +18,3 @@ These terms were prepared with the following in mind:
 - separate privacy policy
 
 That does _not_ mean these terms will work for every website meeting those criteria.
-
-## Copying
-
-These terms are made available under the terms of the Creative Commons  CC0 1.0 Universal public domain dedication.
