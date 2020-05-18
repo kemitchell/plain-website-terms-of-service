@@ -10,7 +10,7 @@ These terms govern use of the website `Website Link`.  To use the website, you m
 
 # Your Permission to Use the Website
 
-Subject to these terms, the company gives you permission to use the website.  You can't transfer it to anyone else.  Others need to agree to these terms for themselves to use the website.
+Subject to these terms, the company gives you permission to use the website.  You can't transfer your permission to anyone else.  Others need to agree to these terms for themselves to use the website.
 
 # Conditions for Use of the Website
 
